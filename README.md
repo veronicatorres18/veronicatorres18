@@ -11,7 +11,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Csharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="Java" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="right" alt="anime" height="70" width="70"src="https://web.whatsapp.com/df845e01-0332-4faf-88fb-ff0f34426c2d/hi.gif"> 
+  <img align="right" alt="anime"src="https://i.picasion.com/pic92/e3ec6057889568ec81b1071c83cf4b48.gif" /> 
  </div>
  <br>
  

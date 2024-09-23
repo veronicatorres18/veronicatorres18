@@ -1,6 +1,6 @@
 ### Olá, eu sou a Verônica 👋
 
-- 🔭 Hoje trabalho como Suporte de Sistemas
+- 🔭 Hoje trabalho como Analista de Sistemas
 - 🌱 Estou estudando .NET e Java
 - 😄 Pronouns: ela/dela
 
